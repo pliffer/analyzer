@@ -1,0 +1,13 @@
+{
+  "name": "analyser",
+  "version": "1.0.0",
+  "description": "Analisador de texto",
+  "main": "analyser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/pliffer/analyser.git"
+  },
+  "author": "Pliffer Technology",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://bitbucket.org/pliffer/analyser#readme"
+}
