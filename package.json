@@ -9,5 +9,8 @@
   },
   "author": "Pliffer Technology",
   "license": "SEE LICENSE IN LICENSE.md",
-  "homepage": "https://bitbucket.org/pliffer/analyser#readme"
+  "homepage": "https://bitbucket.org/pliffer/analyser#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
 }
