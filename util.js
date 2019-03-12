@@ -3,6 +3,16 @@ const fs   = require('fs-extra');
 
 let Util = {
 
+	_extensions: {
+
+		programming: ['js', 'cs'],
+		markup: ['md', 'html'],
+		shell: ['sh', 'bat', ],
+		precompiled: ['scss', 'sass', 'pug', 'jade', 'ts'],
+		other: ['conf', 'css', 'example', 'EXAMPLE', 'txt']
+
+	},
+
 	populateRecursively(entriesPath, entries){
 
 		return new Promise((resolve, reject) => {
