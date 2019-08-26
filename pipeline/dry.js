@@ -3,6 +3,8 @@ const fs   = require('fs-extra');
 
 module.exports = (entries) => {
 
+    return
+
 	const allowedExts = global.util._extensions.programming;
 
 	// Passa por todos os arquivos
@@ -22,7 +24,7 @@ module.exports = (entries) => {
 			// Testa se possui todo
 			if(!/\sfunction/g.test(txt.toLowerCase())) return;
 
-			console.log('Possui function');
+			console.log(entry, 'Possui function');
 
 		})
 

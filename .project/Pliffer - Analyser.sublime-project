@@ -1,0 +1,12 @@
+{
+	"folders": [
+
+		{
+			"path": "/home/pliffer/Desktop/Organizr/Pliffer/products/analyser",
+			"folder_exclude_patterns": [
+				"node_modules"
+			]
+		}
+
+	]
+}

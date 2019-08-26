@@ -1,0 +1,948 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"publsh",
+				"publisher"
+			],
+			[
+				"a",
+				"access_token"
+			],
+			[
+				"c-",
+				"confirma-senha"
+			],
+			[
+				"conneceds",
+				"connectedStreamers"
+			],
+			[
+				"cnonectedstre",
+				"connectedStreamer"
+			],
+			[
+				"as",
+				"answer"
+			],
+			[
+				"firs",
+				"firstChunk"
+			],
+			[
+				"form",
+				"formElm"
+			],
+			[
+				"fileread",
+				"filereader"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/pliffer/Desktop/Organizr/Pliffer/products/analyser/pipeline/dry.js",
+			"settings":
+			{
+				"buffer_size": 657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pliffer/Desktop/Organizr/Pliffer/products/analyser/pipeline/todo.js",
+			"settings":
+			{
+				"buffer_size": 1147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/analyser",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/analyser/pipeline"
+	],
+	"file_history":
+	[
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/css/style.css",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/streamer.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/streaming.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/login.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/eventos.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/streaming.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/cliente.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/rooms.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/streamer.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/models/chat_dao.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/socket.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/js.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/models/cliente.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/models/streamer.js",
+		"/media/pliffer/Pliffer SD/Organizr/Pliffer/websites/websites/joguegratis.com/index.html",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/default.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/footer.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/modals.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/util.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/cliente.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/validate.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/streamer.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/hotpapo.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/menu-lateral.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/legal.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/legal/privacidade.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/legal/termos.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/header.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/simple-header.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/storage/modelo/img/k8fbmuOwI7uXKABxdDKEC5afJZ6Kyz1550514771975",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/menu_lateral_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/home.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/head.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/templates.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/cms/header.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/modelo/live_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/home.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/live_user_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/home.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/call.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/categories/garotas.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/cms/index.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/vendor/js/adapter.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/janus/not-working.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/working-janus/index.html",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/janus/index.html",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/working-janus/echotest.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/working-janus/demo.css",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/janus/adapter.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/janus/janus.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/js/jquery.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/janus/jquery.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/one-to-many/js/call.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/one-to-many/index.html",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/index.html",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/js/call.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/docs/turnserver.md",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/.gitignore",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/ffmpeg/ffmpeg-flv.html",
+		"/home/pliffer/Desktop/chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default.desktop",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/janus/underscore.min.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/ffmpeg/flv.json",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/config.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/tests/ffmpeg/flv.min.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/.env",
+		"/home/pliffer/Desktop/web/webrtc/www/js/socket.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/turnserver",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/database.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/README.md",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/db_export.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/cms.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/sftp-config.json",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/cms/routes/home.js",
+		"/home/pliffer/Desktop/web/webrtc/client.html",
+		"/home/pliffer/Desktop/web/webrtc/www/js/call.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/vendor/js/peer.js",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/pliffer-cl/commands/royale.js",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/pliffer-cl/commands/open.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/js2.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/controllers/modelo_controller.js",
+		"/media/pliffer/202638e1-4ce4-45df-9a00-ad725c2537bb/home/pi/.ssh/authorized_keys",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/inc/nav.ejs",
+		"/home/pliffer/Desktop/Organizr/Pliffer/estudantr/package.json",
+		"/home/pliffer/Desktop/Organizr/Pliffer/estudantr/.env",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/pliffer-cl/commands/estudantr.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/auth.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/LICENSE.md",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/indexr/.gitignore",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/indexr/.env",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/modal_log_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/modelo/cadastro_modelo_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/modelo/login_modelo_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/modelo/passos_finalizacao_cadastro/finalizacao_cadastro_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/crypto.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/mail.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/paginas.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/docs/jwt.md",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/confirmacao_cadastro_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/vendor/js/shortcuts.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/modal_cad_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/models/modelo_dao.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/info_chat_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/usuario/header_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/modelo/header_modelo_view.ejs",
+		"/home/pliffer/Desktop/Organizr/Pliffer/obsoleto/pass.txt",
+		"/home/pliffer/Desktop/Organizr/Pliffer/obsoleto/setup.txt",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/controllers/email.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/controllers/crypto.js",
+		"/home/pliffer/Downloads/db_hotpapo_dev.sql",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/log.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/vars.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/docs/banco-de-dados.md",
+		"/home/pliffer/.config/sublime-text-3/Packages/User/Projects/Tbs - Hotpapo.sublime-project",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/util/clear_export.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/package.json",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/routes/dados_cadastro.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views_old/modelo/passos_finalizacao_cadastro/dados_pessoais_view.ejs",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views_old/modelo/live_view.ejs",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/pliffer-cl/commands/astro.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/private/storage/streamer/julia/video/1550198067320.webm",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/vendor/js/jquery-3.1.1.min.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/private/storage/streamer/julia/video/1550197848659.webm",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/css/streamer.css",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/controllers/streaming_chat.js",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/public/res/vendor/css/normalize.css",
+		"/home/pliffer/Desktop/Organizr/TBS/hotpapo2/app/views/categories/garotos.ejs",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/pliffer-cl/commands/lightning.js",
+		"/home/pliffer/Desktop/Organizr/Pliffer/products/pliffer-cl/commands/hotpapo.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/pliffer/Desktop/Organizr/Pliffer/products/analyser/pipeline/dry.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/pliffer/Desktop/Organizr/Pliffer/products/analyser/pipeline/todo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1117,
+								1117
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Pliffer - Analyser.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style.",
+				"app/public/res/css/style.css"
+			],
+			[
+				"login.js",
+				"app/public/res/js/login.js"
+			],
+			[
+				"js.ejs",
+				"app/views/inc/js.ejs"
+			],
+			[
+				"style.cs",
+				"app/public/res/css/style.css"
+			],
+			[
+				"login",
+				"app/public/res/js/login.js"
+			],
+			[
+				"js.e",
+				"app/views/inc/js.ejs"
+			],
+			[
+				"strea",
+				"app/views/streamer.ejs"
+			],
+			[
+				"streaming",
+				"app/views/streaming.ejs"
+			],
+			[
+				"socket",
+				"socket.js"
+			],
+			[
+				"cliente",
+				"app/models/cliente.js"
+			],
+			[
+				"chatdao",
+				"app/models/chat_dao.js"
+			],
+			[
+				"defa",
+				"app/public/res/js/default.js"
+			],
+			[
+				"footer",
+				"app/views/inc/footer.ejs"
+			],
+			[
+				"valida",
+				"app/util/validate.js"
+			],
+			[
+				"clien",
+				"app/public/res/js/cliente.js"
+			],
+			[
+				"modals.ej",
+				"app/views/inc/modals.ejs"
+			],
+			[
+				"event",
+				"app/public/res/js/eventos.js"
+			],
+			[
+				"streamer.js",
+				"app/models/streamer.js"
+			],
+			[
+				"evento",
+				"app/public/res/js/eventos.js"
+			],
+			[
+				"hotpap",
+				"hotpapo.js"
+			],
+			[
+				"menu-",
+				"app/views/inc/menu-lateral.ejs"
+			],
+			[
+				"home.e",
+				"app/views/home.ejs"
+			],
+			[
+				"legal",
+				"app/routes/legal.js"
+			],
+			[
+				"menu-l",
+				"app/views/inc/menu-lateral.ejs"
+			],
+			[
+				"defau",
+				"app/public/res/js/default.js"
+			],
+			[
+				"side",
+				"storage/modelo/img/k8fbmuOwI7uXKABxdDKEC5afJZ6Kyz1550514771975"
+			],
+			[
+				"men",
+				"app/views/usuario/menu_lateral_view.ejs"
+			],
+			[
+				"style.c",
+				"app/public/res/css/style.css"
+			],
+			[
+				"header",
+				"app/views/inc/header.ejs"
+			],
+			[
+				"modal",
+				"app/views/inc/modals.ejs"
+			],
+			[
+				"menu_lat",
+				"app/views/usuario/menu_lateral_view.ejs"
+			],
+			[
+				"head",
+				"app/views/inc/head.ejs"
+			],
+			[
+				"headr",
+				"app/views/cms/header.ejs"
+			],
+			[
+				".css",
+				"app/public/res/css/style.css"
+			],
+			[
+				"hotp",
+				"hotpapo.js"
+			],
+			[
+				"eventos",
+				"app/public/res/js/eventos.js"
+			],
+			[
+				"style",
+				"app/public/res/css/style.css"
+			],
+			[
+				"modelo live",
+				"app/views/modelo/live_view.ejs"
+			],
+			[
+				"js.",
+				"app/views/inc/js.ejs"
+			],
+			[
+				"head.e",
+				"app/views/inc/head.ejs"
+			],
+			[
+				"live_user",
+				"app/views/usuario/live_user_view.ejs"
+			],
+			[
+				"home.js",
+				"app/public/res/js/home.js"
+			],
+			[
+				"js",
+				"app/views/inc/js.ejs"
+			],
+			[
+				"streamer.ejs",
+				"app/views/streamer.ejs"
+			],
+			[
+				"valid",
+				"app/util/validate.js"
+			],
+			[
+				"home.ej",
+				"app/views/home.ejs"
+			],
+			[
+				"hom",
+				"app/views/home.ejs"
+			],
+			[
+				"streaming.ejs",
+				"app/views/streaming.ejs"
+			],
+			[
+				"streaming.js",
+				"app/public/res/js/streaming.js"
+			],
+			[
+				"stream",
+				"~/Desktop/Organizr/TBS/hotpapo2/app/public/res/js/streaming.js"
+			],
+			[
+				"home.ejs",
+				"app/views/home.ejs"
+			],
+			[
+				"streamer",
+				"app/views/streamer.ejs"
+			],
+			[
+				"catego",
+				"app/views/categories/garotas.ejs"
+			],
+			[
+				"shortcuts",
+				"app/public/res/vendor/js/shortcuts.js"
+			],
+			[
+				"js.ej",
+				"app/views/inc/js.ejs"
+			],
+			[
+				"inde",
+				"app/views/cms/index.ejs"
+			],
+			[
+				"call.js",
+				"app/public/res/js/call.js"
+			],
+			[
+				"adap",
+				"app/public/tests/janus/adapter.js"
+			],
+			[
+				"jquery",
+				"app/public/tests/js/jquery.js"
+			],
+			[
+				"janus.js",
+				"app/public/tests/janus/janus.js"
+			],
+			[
+				"janus",
+				"app/public/tests/janus/janus.js"
+			],
+			[
+				"sock",
+				"socket.js"
+			],
+			[
+				"call",
+				"app/public/tests/one-to-many/js/call.js"
+			],
+			[
+				"hotpapo",
+				"hotpapo.js"
+			],
+			[
+				"turn",
+				"docs/turnserver.md"
+			],
+			[
+				"cal",
+				"app/public/tests/js/call.js"
+			],
+			[
+				"janus.min",
+				"app/public/tests/janus/janus.min.js"
+			],
+			[
+				"confi",
+				"config.js"
+			],
+			[
+				"hot",
+				"hotpapo.js"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"datab",
+				"hotpapo2/database.js"
+			],
+			[
+				".md",
+				"hotpapo2/README.md"
+			],
+			[
+				"db_export",
+				"hotpapo2/app/util/db_export.js"
+			],
+			[
+				"modals",
+				"hotpapo2/app/views/inc/modals.ejs"
+			],
+			[
+				"socke",
+				"hotpapo2/socket.js"
+			],
+			[
+				"vali",
+				"hotpapo2/app/util/validate.js"
+			],
+			[
+				"foote",
+				"hotpapo2/app/views/inc/footer.ejs"
+			],
+			[
+				"peer",
+				"hotpapo2/app/public/res/vendor/js/peer.js"
+			],
+			[
+				"js2",
+				"app/views/inc/js2.ejs"
+			],
+			[
+				"hader",
+				"app/views/inc/header.ejs"
+			],
+			[
+				"css",
+				"app/public/res/css/style.css"
+			],
+			[
+				"modelo",
+				"app/controllers/modelo_controller.js"
+			],
+			[
+				"sty",
+				"app/public/res/css/style.css"
+			],
+			[
+				"nav",
+				"app/views/inc/nav.ejs"
+			],
+			[
+				"util",
+				"app/public/res/js/util.js"
+			],
+			[
+				"auth",
+				"app/util/auth.js"
+			],
+			[
+				".igi",
+				".gitignore"
+			],
+			[
+				"licen",
+				"LICENSE.md"
+			],
+			[
+				"",
+				"app/public/res/js/streamer.js"
+			],
+			[
+				"heade",
+				"app/views/inc/header.ejs"
+			],
+			[
+				"modal_log",
+				"app/views/usuario/modal_log_view.ejs"
+			],
+			[
+				"finalizacao",
+				"app/views/modelo/passos_finalizacao_cadastro/finalizacao_cadastro_view.ejs"
+			],
+			[
+				"uti",
+				"app/public/res/js/util.js"
+			],
+			[
+				"mail",
+				"app/util/mail.js"
+			],
+			[
+				"config",
+				"config.js"
+			],
+			[
+				"confirmaca",
+				"app/views/usuario/confirmacao_cadastro_view.ejs"
+			],
+			[
+				"validate",
+				"app/util/validate.js"
+			],
+			[
+				"db_expo",
+				"app/util/db_export.js"
+			],
+			[
+				"js2.",
+				"app/views/inc/js2.ejs"
+			],
+			[
+				"cadastro_od",
+				"app/views/modelo/cadastro_modelo_view.ejs"
+			],
+			[
+				"head.s",
+				"app/views/inc/head.ejs"
+			],
+			[
+				"da",
+				"database.js"
+			],
+			[
+				"paginas",
+				"app/routes/paginas.js"
+			],
+			[
+				".CSS",
+				"app/public/res/css/style.css"
+			],
+			[
+				".ig",
+				".gitignore"
+			],
+			[
+				"log",
+				"log.js"
+			],
+			[
+				"log.",
+				"log.js"
+			],
+			[
+				"hotpa",
+				"hotpapo.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"modal_log_vi",
+				"app/views/usuario/modal_log_view.ejs"
+			],
+			[
+				".ejs",
+				"app/views/inc/head.ejs"
+			],
+			[
+				"dados",
+				"app/views_old/modelo/passos_finalizacao_cadastro/dados_pessoais_view.ejs"
+			],
+			[
+				"jquer",
+				"app/public/res/vendor/js/jquery-3.1.1.min.js"
+			],
+			[
+				"index.",
+				"app/public/tests/index.html"
+			],
+			[
+				"live_",
+				"app/views_old/modelo/live_view.ejs"
+			],
+			[
+				"ejs.j",
+				"node_modules/ejs/ejs.js"
+			],
+			[
+				"even",
+				"app/public/res/js/eventos.js"
+			],
+			[
+				"video.",
+				"app/routes/video.js"
+			],
+			[
+				"one-to",
+				"app/public/tests/one-to-many/index.html"
+			],
+			[
+				"one-toma",
+				"app/public/tests/one-to-many/index.html"
+			],
+			[
+				"socket.io-client.js",
+				"node_modules/socket.io-client/lib/socket.js"
+			],
+			[
+				"modalav",
+				"app/views_old/usuario/modal_aviso_view.ejs"
+			],
+			[
+				"conig",
+				"config.js"
+			],
+			[
+				"jqyu",
+				"app/public/res/vendor/js/jquery-3.1.1.min.js"
+			],
+			[
+				"nor",
+				"app/public/res/vendor/css/normalize.css"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"readm",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/.config/sublime-text-3/Packages/User/Projects/Ecatalogos Corporativo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

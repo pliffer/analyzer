@@ -22,7 +22,7 @@ module.exports = (entries) => {
 			if(err) throw err;
 
 			// Testa se possui todo
-			if(!/\s@todo/g.test(txt.toLowerCase())) return;
+			if(!/\s@todo/g.test(txt.toLowerCase())) console.log(entry, 'Possui todo');
 
 		})
 
