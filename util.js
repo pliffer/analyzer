@@ -3,6 +3,10 @@ const fs   = require('fs-extra');
 
 let Util = {
 
+	config: {
+		enabled: {}
+	},
+
 	_extensions: {
 
 		programming: ['js', 'cs'],
@@ -63,7 +67,7 @@ let Util = {
 
 		fs.readdirSync(global.dir.pipeline).forEach(pipeFile => {
 
-			require(path.join(global.dir.pipeline, pipeFile))(entries);
+			require(path.join(global.dir.pipeline, pipeFile))(entries, Util.config);
 
 		});
 

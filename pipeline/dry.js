@@ -1,9 +1,10 @@
 const path = require('path');
 const fs   = require('fs-extra');
 
-module.exports = (entries) => {
+module.exports = (entries, config) => {
 
-    return
+	// Verifica se está ativo
+	if(!config.enabled[__filename.split('/').pop().split('.').shift()]) return;
 
 	const allowedExts = global.util._extensions.programming;
 

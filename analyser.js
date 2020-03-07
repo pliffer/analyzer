@@ -20,6 +20,8 @@ global.opts = {
 
 global.util = require(path.join(global.dir.root, 'util.js'));
 
+global.util.config = require('./config');
+
 global.util.getAllEntries(global.dir.app).then(entries => {
 
 	global.util.toPipeline(entries);
