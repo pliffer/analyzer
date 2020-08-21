@@ -2,9 +2,6 @@
 
 ## Instalação
 
-É necessário colocar as seguintes linhas no arquivo `~/.bashrc`:
+npm install -g git+https://github.com:pliffer/analyzer.git
 
-```
-alias analyser="node /home/pliffer/Desktop/Organizr/Pliffer/products/analyser/analyser.js"
-alias ana=analyser
-```
+Para ativar um módulo do pipeline, defina-o como true em config.json

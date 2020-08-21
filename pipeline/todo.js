@@ -10,6 +10,8 @@ module.exports = (entries, config) => {
     // Verifica se está ativo
     if(!config.enabled[__filename.split('/').pop().split('.').shift()]) return;
 
+    let todoCount = 0;
+
 	// Passa por todos os arquivos
 	entries.forEach(entry => {
 
@@ -19,16 +21,40 @@ module.exports = (entries, config) => {
 		// Ignora todas as extensões que estão dentro de ignoreExts
 		if(!allowedExts.includes(ext) || !ext) return;
 
-		// Pega o texto do arquivo
-		fs.readFile(entry, 'utf-8', (err, txt) => {
+        try{            
 
-			if(err) throw err;
+            // Pega o texto do arquivo
+            let txt = fs.readFileSync(entry, 'utf-8');
 
-			// Testa se possui todo
-			if(!/\s@todo/g.test(txt.toLowerCase())) console.log(entry, 'Possui todo');
+            // Testa se possui todo
+            if(/\s@todo/g.test(txt.toLowerCase())){
 
-		})
+                todoCount++;
+                console.log(entry, 'Possui todo');
+
+            }
+
+        } catch(e){
+
+            throw e;
+
+        }
+
+        // Pega o texto do arquivo
+        // fs.readFileSync(entry, 'utf-8', (err, txt) => {
+
+        //     if(err) throw err;
+
+        //     // Testa se possui todo
+        //     if(!/\s@todo/g.test(txt.toLowerCase())){
+        //         todoCount++;
+        //         console.log(entry, 'Possui todo');
+        //     }
+
+        // });
 
 	});
+
+    console.log(`Total de ${todoCount} arquivos com @todo`);
 
 }

@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Analisador de texto",
   "main": "analyser.js",
+  "preferGlobal": true,
+  "bin": "analyser.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/pliffer/analyser.git"
